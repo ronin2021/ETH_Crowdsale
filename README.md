@@ -40,10 +40,36 @@ Deployed PupperCoin contract step - on MetaMask:
 
 ![2_PupperCoin_Deployment_MetaMask](Images/2_PupperCoin_Deployment_MetaMask.png)
 
-We minted PupperCoin as shown on the Remix:
+We implemented minting PupperCoin as shown on the Remix:
 
-![2_PupperCoin_Deployment_MetaMask](Images/2_PupperCoin_Deployment_MetaMask.png)
+![3_PupperCoin_Minting_Remix](Images/3_PupperCoin_Minting_Remix.png)
 
-3_PupperCoin_Minting_Remix
+Minting implementation as shown on MetaMask:
 
+![4_PupperCoin_Minting_MetaMask](Images/4_PupperCoin_Minting_MetaMask.png)
+
+Minted PupperCoins as shown on Remix:
+
+![5_PupperCoin_Minted_Tokens_Remix](Images/5_PupperCoin_Minted_Tokens_Remix.png)
+
+Deploying PupperCoinSaleDeployer in Remix:
+
+![6_PupperCoinSaleDeployer_Deployed_Remix](Images/6_PupperCoinSaleDeployer_Deployed_Remix.png)
+
+Middle step in PupperCoinSaleDeployer in MetaMask:
+
+![7_PupperCoinSaleDeployer_Deployed_MetaMask](Images/7_PupperCoinSaleDeployer_Deployed_MetaMask.png)
+
+### Technologies implemented
+ERC20 FT were implemented with standard Blockchain and smartcontract development via Solidity, Remix IDE, MetaMask, and Ganache (local blockchain).
+
+### Inputs
+Pre loaded test ETH in local accounts handled via MetaMask and Ganache. 
+At onset 1000 PupperCoin Tokens were minted for the crowd sale.
+
+### Outputs
+Outputs are presented as graphics of the Remix and MetaMask. 
+
+### Remarks
+None.
 
